@@ -73,7 +73,9 @@
     color: rgb(99, 99, 99);
 }
 .main_head p{
-    margin: 15px;
+    margin-top: 15px;
+    font-size: 15px;
+    color: rgb(131, 130, 130);
 }
 .zigzag{
     margin-top: 2rem;
