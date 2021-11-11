@@ -72,6 +72,9 @@
     width: 22rem;
     color: rgb(99, 99, 99);
 }
+.main_head p{
+    margin: 15px;
+}
 .zigzag{
     margin-top: 2rem;
     width: 20%;
